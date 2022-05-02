@@ -1,6 +1,11 @@
 {
-  "name": "next-js-teplate",
+  "name": "next-js-fullstack-app-template",
   "version": "0.1.0",
+  "engines": {
+    "node": ">=14.0.0",
+    "yarn":">=1.22.0",
+    "npm":"please-use-yarn"
+  },
   "private": true,
   "scripts": {
     "dev": "next dev",
